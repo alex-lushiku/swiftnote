@@ -1,0 +1,45 @@
+.btn-dark-default { 
+  color: #757575; 
+  background-color: #202020; 
+  border-color: #646464; 
+} 
+ 
+.btn-dark-default:hover, 
+.btn-dark-default:focus, 
+.btn-dark-default:active, 
+.btn-dark-default.active, 
+.open .dropdown-toggle.btn-dark-default { 
+  color: #757575; 
+  background-color: #202020; 
+  border-color: #646464; 
+} 
+ 
+.btn-dark-default:active, 
+.btn-dark-default.active, 
+.open .dropdown-toggle.btn-dark-default { 
+  background-image: none; 
+} 
+ 
+.btn-dark-default.disabled, 
+.btn-dark-default[disabled], 
+fieldset[disabled] .btn-dark-default, 
+.btn-dark-default.disabled:hover, 
+.btn-dark-default[disabled]:hover, 
+fieldset[disabled] .btn-dark-default:hover, 
+.btn-dark-default.disabled:focus, 
+.btn-dark-default[disabled]:focus, 
+fieldset[disabled] .btn-dark-default:focus, 
+.btn-dark-default.disabled:active, 
+.btn-dark-default[disabled]:active, 
+fieldset[disabled] .btn-dark-default:active, 
+.btn-dark-default.disabled.active, 
+.btn-dark-default[disabled].active, 
+fieldset[disabled] .btn-dark-default.active { 
+  background-color: #202020; 
+  border-color: #646464; 
+} 
+ 
+.btn-dark-default .badge { 
+  color: #202020; 
+  background-color: #757575; 
+}

@@ -1,0 +1,45 @@
+.btn-dark-primary { 
+  color: #999999; 
+  background-color: #646464; 
+  border-color: #444444; 
+} 
+ 
+.btn-dark-primary:hover, 
+.btn-dark-primary:focus, 
+.btn-dark-primary:active, 
+.btn-dark-primary.active, 
+.open .dropdown-toggle.btn-dark-primary { 
+  color: #999999; 
+  background-color: #646464; 
+  border-color: #444444; 
+} 
+ 
+.btn-dark-primary:active, 
+.btn-dark-primary.active, 
+.open .dropdown-toggle.btn-dark-primary { 
+  background-image: none; 
+} 
+ 
+.btn-dark-primary.disabled, 
+.btn-dark-primary[disabled], 
+fieldset[disabled] .btn-dark-primary, 
+.btn-dark-primary.disabled:hover, 
+.btn-dark-primary[disabled]:hover, 
+fieldset[disabled] .btn-dark-primary:hover, 
+.btn-dark-primary.disabled:focus, 
+.btn-dark-primary[disabled]:focus, 
+fieldset[disabled] .btn-dark-primary:focus, 
+.btn-dark-primary.disabled:active, 
+.btn-dark-primary[disabled]:active, 
+fieldset[disabled] .btn-dark-primary:active, 
+.btn-dark-primary.disabled.active, 
+.btn-dark-primary[disabled].active, 
+fieldset[disabled] .btn-dark-primary.active { 
+  background-color: #646464; 
+  border-color: #444444; 
+} 
+ 
+.btn-dark-primary .badge { 
+  color: #646464; 
+  background-color: #999999; 
+}

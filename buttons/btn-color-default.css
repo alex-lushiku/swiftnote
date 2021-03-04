@@ -1,0 +1,45 @@
+.btn-color-default { 
+  color: #835833; 
+  background-color: #FFFAE0; 
+  border-color: #CCC7B0; 
+} 
+ 
+.btn-color-default:hover, 
+.btn-color-default:focus, 
+.btn-color-default:active, 
+.btn-color-default.active, 
+.open .dropdown-toggle.btn-color-default { 
+  color: #835833; 
+  background-color: #FFFAE0; 
+  border-color: #CCC7B0; 
+} 
+ 
+.btn-color-default:active, 
+.btn-color-default.active, 
+.open .dropdown-toggle.btn-color-default { 
+  background-image: none; 
+} 
+ 
+.btn-color-default.disabled, 
+.btn-color-default[disabled], 
+fieldset[disabled] .btn-color-default, 
+.btn-color-default.disabled:hover, 
+.btn-color-default[disabled]:hover, 
+fieldset[disabled] .btn-color-default:hover, 
+.btn-color-default.disabled:focus, 
+.btn-color-default[disabled]:focus, 
+fieldset[disabled] .btn-color-default:focus, 
+.btn-color-default.disabled:active, 
+.btn-color-default[disabled]:active, 
+fieldset[disabled] .btn-color-default:active, 
+.btn-color-default.disabled.active, 
+.btn-color-default[disabled].active, 
+fieldset[disabled] .btn-color-default.active { 
+  background-color: #FFFAE0; 
+  border-color: #CCC7B0; 
+} 
+ 
+.btn-color-default .badge { 
+  color: #FFFAE0; 
+  background-color: #835833; 
+}
